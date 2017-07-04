@@ -1,0 +1,19 @@
+# site title
+title: keleblog
+
+# github user
+user: kokokele
+
+# issue repository
+repository: keleblog
+
+# multi-author
+authors: kele
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 58b2faa4ab29fd21ddccbb6e3e331f9a7b8be326
+
+# posts per page
+perpage: 10
